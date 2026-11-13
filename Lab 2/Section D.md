@@ -1,4 +1,4 @@
-1. Space used by full vs sparse representation
+# 1. Space used by full vs sparse representation
 
 For an m × n matrix with k non-zero elements:
 

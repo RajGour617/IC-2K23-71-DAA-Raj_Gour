@@ -5,4 +5,3 @@
 5. Linear search checks elements **sequentially**, while binary search requires the array to be **sorted** first.
 6. A sparse matrix stores only **non-zero** elements, along with their **row** and **column**.
 7. The standard triple format for a sparse matrix entry is (**row, column, value**).
-
